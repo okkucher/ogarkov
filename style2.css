@@ -1,0 +1,187 @@
+body {
+    font-family: sans-serif;
+}
+
+.p{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.q{
+     background-image: url(https://learn.logikaschool.com/uploads/student/1055011/16-1655907582.jpg);
+     display: flex;
+     justify-content: center;
+}
+
+h1{
+    text-align: center;
+    padding-bottom: 644px;
+}
+
+h2{
+    text-align: center;
+}
+
+.r{
+    display: flex;
+}
+
+.tovar{
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.s{
+    background-color: gray;
+    height: 100px;
+}   
+
+.stalker{
+    width: 100px;
+}
+
+.pon{
+    background-color: lightblue;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.jojo{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.qe{
+    width: 100px;
+    height: 50px;
+}
+
+.beda{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: lightblue;
+    margin-top: 20px;
+}
+
+.ahaha{
+    width: 100px;
+    height: 50px;
+}
+
+.troll{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: lightblue;
+    margin-top: 20px;
+}
+
+.pro{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.epro{
+    width: 457px;
+}
+
+h3{
+    text-align: center;
+}
+
+.tp{
+    display: flex;
+    justify-content: space-around;
+    padding-right: 50px;
+    background-color: gray;
+    padding-top: 20px ;
+    padding-bottom: 20px ;
+}
+
+h4{
+    text-align: center;
+}
+
+.content{
+    height: 300px;
+}
+
+.haha{
+width: 100px;
+height: 50px;
+}
+
+.sueta{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: lightblue;
+    margin-top: 20px;
+}
+
+.negr{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: lightblue;
+    margin-top: 20px;
+}
+
+.xnegr{
+    width: 100px;
+    height: 50px;
+}
+
+.amogus{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: lightblue;
+    margin-top: 20px;
+}
+
+.xamogus{
+    height: 50px;
+    width: 100px;
+}
+
+.er{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: lightblue;
+    margin-top: 20px;
+}
+
+.xxtoa{
+    height: 50px;
+    width: 100px;
+}
+
+h5{
+    background-color: gray;
+    padding-top: 10px;
+    padding-bottom:10px ;
+    padding-right: 20px;
+}
+
+h6{
+    font-size: 38px;
+    color: white;
+    background-color: black;
+    padding-top: 50px ;
+    padding-bottom: 50px;
+}    
+
+.so{
+    background-color: gray;
+    padding-top: 20px ;
+}
